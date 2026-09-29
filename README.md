@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ashley
 
-<!--
-**ash193/ash193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience working on production systems and building full-stack applications.
 
-Here are some ideas to get you started:
+My work spans **JavaScript/TypeScript, React, Node.js, Express, and PostgreSQL**, with a growing focus on AI-powered applications and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing my M.S. in Computer Science at **Georgia Tech**.
+
+## Tech Stack
+
+**Languages**  
+JavaScript · TypeScript · Python · Java · SQL
+
+**Frontend**  
+React · Tailwind CSS · Vite
+
+**Backend**  
+Node.js · Express · REST APIs
+
+**Data & Tools**  
+PostgreSQL · Prisma · Docker · Git · GitHub
+
+## Featured Projects
+
+### GymAIPlanner
+AI-powered full-stack application for creating personalized training plans based on individual goals and preferences.
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `OpenAI`
+
+→ [Repository](https://github.com/ash193/GymAIPlanner) 
+
+## Interests
+
+Full-Stack Development · AI/ML · Software Architecture · Intelligent Systems
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashley193/) 
