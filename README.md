@@ -15,7 +15,7 @@ My work spans **JavaScript/TypeScript, React, Node.js, Express, and PostgreSQL**
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql)
 
 **Frontend**
